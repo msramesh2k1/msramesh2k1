@@ -2,7 +2,8 @@
 <h3 align="center">A passionate explorer of new Techs.</h3>
 
 <h4 align="center">👨‍💻 Who am I ?</h3>
-<h3 align="center">I'm a B.E CSE junior year student  at Sathybama University,Chennai.I have prior experience in Flutter,UI/UX,DevOps,Testing.Looking forward to contribute for an Open Source.Field of Intrest->Mobile Development(Flutter),DevOps,ML/AI,Data Science</h3>
+<h3 align="center">I'm a B.E CSE junior year student  at Sathybama University,Chennai.I have prior experience in Flutter,UI/UX,DevOps,Testing.
+ Looking forward to contribute for an Open Source.Field of Intrest->Mobile Development(Flutter),DevOps,ML/AI,Data Science</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msramesh2k1&label=Profile%20views&color=0e75b6&style=flat" alt="msramesh2k1" /> </p>
 
